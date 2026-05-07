@@ -1,0 +1,8 @@
+# Dependencies intentionally excluded — this is a portfolio showcase only.
+# No source code is published in this repository.
+
+node_modules/
+.env
+*.log
+.DS_Store
+Thumbs.db
