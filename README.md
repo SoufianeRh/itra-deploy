@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="docs/screenshots/logo.png" alt="Itra Logo" width="120" />
-
 # Itra — Moroccan Craftsmen Marketplace
 
 ### A production-ready, full-stack platform connecting craftsmen with customers across Morocco
@@ -30,16 +28,6 @@ Itra is a **MyHammer / Thumbtack-style marketplace** for Morocco — customers p
 - Production-running at [itra.ma](https://itra.ma) with real users and data.
 
 ---
-
-## Screenshots
-
-| Home / Services | Project Wizard | Craftsman Profile |
-|:---:|:---:|:---:|
-| ![Services](docs/screenshots/services.png) | ![Wizard](docs/screenshots/wizard.png) | ![Profile](docs/screenshots/craftsman.png) |
-
-| Admin Dashboard | Real-time Chat | Mobile App |
-|:---:|:---:|:---:|
-| ![Admin](docs/screenshots/admin.png) | ![Chat](docs/screenshots/messages.png) | ![Mobile](docs/screenshots/mobile.png) |
 
 ---
 
